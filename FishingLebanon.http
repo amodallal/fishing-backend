@@ -1,0 +1,6 @@
+@FishingLebanon_HostAddress = http://localhost:5294
+
+GET {{FishingLebanon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
